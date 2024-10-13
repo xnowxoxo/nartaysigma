@@ -1,8 +1,8 @@
-import Assignment3.Chain.*;
-import Assignment3.Command.*;
-import Assignment3.Iterator.*;
-import Assignment3.Mediator.*;
-import Assignment3.Memento.*;
+import Assignment3.assignment3.Chain.*;
+import Assignment3.assignment3.Command.*;
+import Assignment3.assignment3.Iterator.*;
+import Assignment3.assignment3.Mediator.*;
+import Assignment3.assignment3.Memento.*;
 
 public class Main {
     public static void main(String[] args) {
